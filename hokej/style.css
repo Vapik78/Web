@@ -1,3 +1,7 @@
+body {
+  background: white;
+}
+
 .topbar {
   background: #1E40AF;
   color: white;
@@ -31,3 +35,7 @@
   height: 1.5rem;
   width: auto;
 }
+: 1.5rem;
+  width: auto;
+}
+
